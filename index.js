@@ -5,7 +5,7 @@ function test(){
 
 var count = 3
 function incCounter(){
-  counter++
+  count++
 }
 
 const createAudioPlayer = () => {
